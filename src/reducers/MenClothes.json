@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "title":"Men sweater",
+        "cost":2000,
+        "imageURL":"https://cdn.shopify.com/s/files/1/1083/6796/products/product-image-346581395.jpg?v=1571438817"
+
+    },
+    {
+        "id":1,
+        "title":"Men polo T-shirt",
+        "cost":800,
+        "imageURL":"https://cdn.shopify.com/s/files/1/1284/8123/products/Green_Front_09fa917a-db22-4823-a72d-15750cbfa3f3.jpg?v=1530004462"
+
+    },
+    {
+        "id":2,
+        "title":"Men Blazer",
+        "cost":4000,
+        "imageURL":"https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/7696/70232/2017-Hot-Sale-Brand-Clothing-Men-Blazer-Fashion-Cotton-Suit-Blazer-Slim-Fit-Masculine-Blazer-Casual__96949.1527763590.jpg?c=2?imbypass=on"
+
+    },
+    {
+        "id":3,
+        "title":"Men Tuxedo",
+        "cost":11000,
+        "imageURL":"https://5.imimg.com/data5/OU/SQ/CA/SELLER-31616189/mens-tuxedo-stylish-suit-500x500.jpg"
+
+    },
+    {
+        "id":4,
+        "title":"Sherwani",
+        "cost":8000,
+        "imageURL":"https://i.pinimg.com/736x/a6/81/a7/a681a7b3fc1093333060ad0b9857b1d8.jpg"
+
+    },
+    {
+        "id":5,
+        "title":"Men Black Jeans",
+        "cost":2000,
+        "imageURL":"https://90shopping.com/wp-content/uploads/2019/06/7116-e3fa2f.jpg"
+
+    }
+]

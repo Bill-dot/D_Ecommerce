@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "title":"King size Bed",
+        "cost":30000,
+        "imageURL":"https://www.hometown.in/media/product/58/7153/89566/1.jpg"
+
+    },
+    {
+        "id":1,
+        "title":"Queen size bed",
+        "cost":25000,
+        "imageURL":"https://5.imimg.com/data5/LC/FI/SI/SELLER-30353797/queen-size-bed-500x500.jpg"
+
+    },
+    {
+        "id":2,
+        "title":"Chair",
+        "cost":8000,
+        "imageURL":"https://ii1.pepperfry.com/media/catalog/product/a/l/800x880/alvino-rocking-chair-in-brown-colour-by-trendsbee-alvino-rocking-chair-in-brown-colour-by-trendsbee-dyp8yu.jpg"
+
+    },
+    {
+        "id":3,
+        "title":"Single Sofa",
+        "cost":15000,
+        "imageURL":"https://sc01.alicdn.com/kf/HTB1AuJKdBKw3KVjSZTEq6AuRpXaA/202488798/HTB1AuJKdBKw3KVjSZTEq6AuRpXaA.jpg_.webp"
+
+    },
+    {
+        "id":4,
+        "title":"Dining Set",
+        "cost":25000,
+        "imageURL":"https://www.ulcdn.net/images/products/157781/product/Wesley_Dalla_6_Seater_Dining_Table_Set_Grey_LP.jpg?1508904699"
+
+    },
+    {
+        "id":5,
+        "title":"Relaxing chair",
+        "cost":35000,
+        "imageURL":"https://4.imimg.com/data4/NY/VF/MY-1997162/relax-chair-500x500.jpg"
+
+    }
+]

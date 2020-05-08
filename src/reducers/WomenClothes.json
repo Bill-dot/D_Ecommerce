@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "title":"Women's sweater",
+        "cost":2000,
+        "imageURL":"https://hips.hearstapps.com/harpersbazaaruk.cdnds.net/16/33/gigi-hadid-tommy-hilfiger-1.jpg?resize=480:*"
+
+    },
+    {
+        "id":1,
+        "title":"Women's Pull-Over",
+        "cost":5000,
+        "imageURL":"https://i.pinimg.com/originals/ee/31/ce/ee31ce4f77b174bfb94ca31654b65c57.jpg"
+
+    },
+    {
+        "id":2,
+        "title":"Women's grey jeans",
+        "cost":3500,
+        "imageURL":"https://www.theplace2.ru/archive/gigi_hadid/img/gigi_hadid_penshoppe_denimlab_photoshoot_2016_07.jpg"
+
+    },
+    {
+        "id":3,
+        "title":"Women's Blazer",
+        "cost":7000,
+        "imageURL":"https://i.pinimg.com/originals/1c/17/36/1c173665962c05fa5bdb55d7da2d3ef5.jpg"
+
+    },
+    {
+        "id":4,
+        "title":"Women's top",
+        "cost":1500,
+        "imageURL":"https://www.numero.com/sites/default/files/images/article_new/slides/ss17_gigi_hadid_look_007_close_up.jpg"
+
+    },
+    {
+        "id":5,
+        "title":"Women's blue jeans",
+        "cost":3500,
+        "imageURL":"https://i.pinimg.com/originals/0a/2d/33/0a2d3354771a40c6071d91a02e72025d.jpg"
+
+    }
+]

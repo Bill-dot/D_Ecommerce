@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "title":"Knife set",
+        "cost":2500,
+        "imageURL":"https://ktchndad.com/wp-content/uploads/2019/08/Emojoy-Knife-Set-15-Piece-Kitchen-Knife-Set-with-Block-ABS-Handle-for-Chef-Knife-Set-1024x1024.jpg"
+
+    },
+    {
+        "id":1,
+        "title":"1.8L Electric cooker",
+        "cost":2000,
+        "imageURL":"https://www.reliancedigital.in/medias/Reconnect-1-8L-Rice-Cooker-2-bowls-491433397-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNDAyMTh8aW1hZ2UvanBlZ3xpbWFnZXMvaDQyL2hmNi85MDYyMjAxMTYzODA2LmpwZ3xiNmI3ZjJiOWE3M2NlYTkwNGZkODNlNzYxNmM1ZWUwYWYzY2U2M2MxNjQwZWZiN2NkNDZjMjBhNTMwZmNmZjc3"
+
+    },
+    {
+        "id":2,
+        "title":"Blender Black",
+        "cost":4000,
+        "imageURL":"https://dwh39hsbrwe7m.cloudfront.net/media/catalog/product/cache/83d1798589160ed719728cafde2f5745/1/2/125_borosil_nutrifresh_blender_mixer_juice_smoothie_milkshake_appliances_kitchen_.jpg"
+
+    },
+    {
+        "id":3,
+        "title":"4 burner stove",
+        "cost":3000,
+        "imageURL":"https://images-na.ssl-images-amazon.com/images/I/61NaSCohwqL._SX466_.jpg"
+
+    },
+    {
+        "id":4,
+        "title":"2 doors Refrigerator",
+        "cost":75000,
+        "imageURL":"https://assets.croma.com/medias/sys_master/images/images/hfd/he7/8811623809054/203361_pjpeg.jpg"
+
+    },
+    {
+        "id":5,
+        "title":"Microwave Owen",
+        "cost":10000,
+        "imageURL":"https://www.lg.com/in/images/microwave-ovens/md05754327/gallery/Large-940x620r.jpg"
+
+    }
+]

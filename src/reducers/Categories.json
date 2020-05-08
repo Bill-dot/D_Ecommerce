@@ -1,0 +1,26 @@
+[
+    {
+        "id":0, "title":"Mobiles", "imageURL":"https://static.toiimg.com/photo/54058944/OnePlus-One-64GB.jpg"
+    },
+    {
+        "id":1, "title":"Games" , "imageURL":"https://cdn.vox-cdn.com/thumbor/x4ZPgfA1INX495_dwMcMS2xLaNg=/1400x1050/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/10048721/hori.png"
+    },
+    {
+        "id":2, "title":"Men's Clothing", "imageURL":"https://cdn.shopify.com/s/files/1/0047/5670/1251/products/New-Autumn-Fashion-Brand-Men-Clothes-Slim-Fit-Men-Long-Sleeve-Shirt-Men-Plaid-Cotton-Casual.jpg_640x640_efcce0e0-c22a-41a1-be29-16f8a93d6caa.jpg?v=1583257650"
+    },
+    {
+        "id":3, "title":"Women's Clothing", "imageURL":"https://2.bp.blogspot.com/-fP6crOAR6xs/Wjq_ngeMmDI/AAAAAAAAyOI/POcfzc3lNTwU5QAlmOuQ7-gBMF_yCkyZQCLcBGAs/s1600/gigi-hadid-vogue-korea-magazine-01.jpg"
+    },
+    {
+        "id":4, "title":"Kid's Clothing", "imageURL":"https://littlemooshoo.com/wp-content/uploads/2017/08/1-188.jpg"
+    },
+    {
+        "id":5, "title":"Kitchen", "imageURL":"https://www.robertdyas.co.uk/media/catalog/product/cache/c6273ae4c3df0939b2b6eed74e8f56b3/1/8/184674.png"
+    },
+    {
+        "id":6, "title":"Furniture", "imageURL":"https://images-na.ssl-images-amazon.com/images/I/81PYHdqM3PL._SY550_.jpg"
+    },
+    {
+        "id":7, "title":"Electronics", "imageURL":"https://5.imimg.com/data5/GH/KV/MY-3094430/electronics-lcd-tv-500x500.jpg"
+    }
+]

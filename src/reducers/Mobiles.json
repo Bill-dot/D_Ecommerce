@@ -1,0 +1,38 @@
+[
+    {
+        "id":0,
+        "title":"OnePlus 7t",
+        "imageURL":"https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/CA/1B/724f6db6-0e7b-4d18-98b5-57808a8677dd.jpg",
+        "cost":38000
+    },
+    {
+        "id":1,
+        "title":"Samsung m30s",
+        "imageURL":"https://pricesinn.com/php_uploads/2019/11/Samsung-Galaxy-M30s.jpg",
+        "cost":15000
+    },
+    {
+        "id":2,
+        "title":"Redmi k20 Pro",
+        "imageURL":"https://img.gkbcdn.com/s3/p/2019-05-29/xiaomi-redmi-k20-pro-6-39-inch-8gb-256gb-smartphone-red-1574132399429.jpg",
+        "cost":20000
+    },
+    {
+        "id":3,
+        "title":"Vivo S1",
+        "imageURL":"https://static.toiimg.com/thumb/msid-68374701,width-320,resizemode-4/Vivo-S1.jpg",
+        "cost":15000
+    },
+    {
+        "id":4,
+        "title":"iPhone 11 Pro",
+        "imageURL":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-silver-select-2019?wid=834&hei=1000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1566953858420",
+        "cost":98000
+    },
+    {
+        "id":5,
+        "title":"iPhone XS Max",
+        "imageURL":"https://cdn.movertix.com/media/catalog/product/cache/image/1200x/a/p/apple-iphone-xs-max-en-plata-de-512gb_2.jpg",
+        "cost":69000
+    }
+]

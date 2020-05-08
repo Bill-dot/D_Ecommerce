@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "title":"Sony Bravia",
+        "cost":275000,
+        "imageURL":"https://www.sortedstore.com/wp-content/uploads/2019/08/59-9cm-24-inch-hd-ready-led-tv-klv-24p413d-500x500.jpg"
+
+    },
+    {
+        "id":1,
+        "title":"LG washing machine",
+        "cost":40000,
+        "imageURL":"https://static.digit.in/product/thumb_112808_product_td_480x480.jpeg"
+
+    },
+    {
+        "id":2,
+        "title":"Air Conditioner",
+        "cost":70000,
+        "imageURL":"https://img.etimg.com/thumb/width-640,height-480,imgsize-62483,resizemode-1,msid-72492526/samsung-india-to-re-enter-windows-and-fixed-speed-split-ac.jpg"
+
+    },
+    {
+        "id":3,
+        "title":"Beats headphones",
+        "cost":23000,
+        "imageURL":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MWUH2?wid=2104&hei=2980&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1570055243757"
+
+    },
+    {
+        "id":4,
+        "title":"Samsung Laptop",
+        "cost":130000,
+        "imageURL":"https://images.anandtech.com/doci/14726/Galaxy-Book-S-Product-Images-678_678x452.jpg"
+
+    },
+    {
+        "id":5,
+        "title":"Speakers",
+        "cost":8000,
+        "imageURL":"https://images-na.ssl-images-amazon.com/images/I/71o5w0ZfptL._AC_SY355_.jpg"
+
+    }
+]

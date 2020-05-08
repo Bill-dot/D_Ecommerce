@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "title":"Baby Girl's Frock",
+        "cost":1000,
+        "imageURL":"https://sc02.alicdn.com/kf/HTB1T62PknnI8KJjy0Ffq6AdoVXa4/2018-new-design-well-dressed-wolf-remake.jpg"
+
+    },
+    {
+        "id":1,
+        "title":"Boy's Formal wear",
+        "cost":1500,
+        "imageURL":"https://jalendecor.co/wp-content/uploads/2019/07/kids-dress-up-clothes-men-kids-dressed-up-attire-well-dressed-men-boys-clothes.jpg"
+
+    },
+    {
+        "id":2,
+        "title":"Boy's Blazer",
+        "cost":2500,
+        "imageURL":"https://i.pinimg.com/originals/c1/fc/42/c1fc4249e351f3e125c94536eef4ce28.jpg"
+
+    },
+    {
+        "id":3,
+        "title":"Baby girl Fairy dress",
+        "cost":1500,
+        "imageURL":"https://imageresizer.static9.net.au/AIYfDsS3d8xK7cvEk5lkWY2AMaQ=/400x0/https%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2FNetwork%2FImages%2F2017%2F07%2F21%2F11%2F22%2FMillieBelle.JPG"
+
+    },
+    {
+        "id":4,
+        "title":"Boy Tuxedo",
+        "cost":3000,
+        "imageURL":"https://i.pinimg.com/originals/6b/84/59/6b84594acaa1852a665bfa453be511db.jpg"
+
+    },
+    {
+        "id":5,
+        "title":"Boy French outfit",
+        "cost":"3500",
+        "imageURL":"https://i.pinimg.com/originals/80/ce/41/80ce41f8204eae8460029ce4cedfd25d.jpg"
+
+    }
+]
